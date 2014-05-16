@@ -1,0 +1,24 @@
+@extends('principal')
+	<!--
+@section('content')
+
+
+    @foreach ($users as $user)
+        <p>{{ $user->name }}</p>
+    @endforeach
+	
+
+	<div class="container">
+
+		@for ($j = 0; $j < 5; $j++)
+		  	<div class="row">
+		  		@for ($i = 0; $i < 4; $i++)
+		  			<div class="col-md-3">
+		  					Thumbnail servei
+		  			</div>
+				@endfor  
+	   		</div>
+	   	@endfor
+	</div>
+@stop
+-->

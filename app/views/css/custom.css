@@ -1,0 +1,82 @@
+.thumbnail-servei-lateral {
+	margin-bottom: 23px;
+	display:block;
+}
+
+.thumbnail-servei-sota {
+	margin-bottom: 3px;
+	margin-top: 5px;
+	display:block;
+}
+
+#slider_serveis {
+	width: 750px;
+	border: 1px solid black;
+	height: 434px;
+}
+
+
+#content-central {
+	margin: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin: 5%;
+}
+
+/************************ Header ****************
+
+header {
+	margin-bottom: 3%;
+	display: block;
+	padding: 5%;
+	border: 1px dotted red;
+}
+
+#principal-centre {
+	display: block;
+	margin-top: 3%;
+	margin-left: 16%;
+}
+
+.container {
+	display: block;
+	margin-top: 3%;
+}
+
+/**************************************************
+/*********************** Nav *********************
+
+#menu_principal {
+	left: 50%;
+}
+
+/****************************************************
+/********************* Centre ***********************
+
+.thumbnail-servei-lateral {
+	border: 1px solid black;
+	padding: 26.5%;
+	margin-bottom: 3%;
+}
+
+#slider_serveis {
+	border: 1px solid black;
+	padding: 27.7%;
+}
+
+.thumbnail-servei-sota {
+	border: 1px solid black;
+	padding: 20%;
+	margin-bottom: 3%;
+	margin-top: 5%;
+}
+
+/****************************************************
+/******************** Footer ************************
+
+footer {
+	margin-top: 3%;
+	border: 1px dotted red;
+	padding: 5%;
+}
+*/
